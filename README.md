@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Khaimed
+# Hi there! 👋 I'm Khalid
 
 <div align="center">
 
