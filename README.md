@@ -1,11 +1,13 @@
-# Hi there! 👋 I'm Khalid
+# Hi there! 👋 I'm Khalid (ⵅⴰⵍⵉⴷ)
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khaimed&style=flat-square&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/khaimed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](https://khaimed.com)
-
+<a href="https://lesite.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome" alt="Portfolio">
+</a>
 </div>
 
 ## 🔍 QA Test Engineer | Quality Assurance Specialist
