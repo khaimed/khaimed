@@ -1,14 +1,12 @@
-# Hi there! 👋 I'm Khalid (ⵅⴰⵍⵉⴷ)
-
 <div align="center">
+Hi there! 👋 I'm Khalid (ⵅⴰⵍⵉⴷ)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1888C8&random=true&width=564&lines=QA+Test+Engineer+%7C+Quality+Assurance+Specialist)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khaimed&style=flat-square&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/khaimed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](https://khaimed.com)
-
 </div>
-
-## 🔍 QA Test Engineer | Quality Assurance Specialist
 
 > Passionate about ensuring software quality through comprehensive testing strategies and automation
 
