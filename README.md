@@ -13,7 +13,7 @@ Hi there! 👋 I'm Khalid (ⵅⴰⵍⵉⴷ)
 ### 🚀 About Me
 
 - 🔧 **QA Test Engineer** specializing in Frontend, Backend & Automation Testing
-- 🌐 **Multi-Stack Testing**: JavaScript & Python frameworks
+- 🌐 **Multi-Stack Testing**: JavaScript/TypeScript & Python frameworks
 - 🎯 **Mission**: Delivering bug-free, high-quality software experiences
 - 📈 **Focus**: Test automation, performance testing, and quality assurance processes
 - 🔍 **Always learning**: Staying updated with latest testing tools and methodologies
